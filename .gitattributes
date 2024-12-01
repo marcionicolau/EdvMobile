@@ -1,0 +1,19 @@
+*.pbxproj -text
+
+# Force the following filetypes to have unix eols, so Windows does not break them
+*.js text eol=lf
+
+# Images
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+
+# Fonts
+*.woff2 binary
+*.ttf binary
+
+# Nets
+*.tflite
+
